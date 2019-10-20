@@ -1,0 +1,3 @@
+[submodule "Koala/vendor/spdlog"]
+	path = Koala/vendor/spdlog
+	url = https://github.com/gabime/spdlog
